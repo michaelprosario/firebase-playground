@@ -55,10 +55,11 @@ Notice that we're importing the drawing library called p5.js.  We also import ou
 
 ## Obtain your Firebase config
 
-- Get config object for your web app
-- Go to your the Settings icon Project settings in the Firebase console. ( see gear icon )
-- In the Your apps card, select the nickname of the app for which you need a config object.
-- Select Config from the Firebase SDK snippet pane.
+- Navigate to console.firebase.com.
+- Open Project XXX.
+- Click "gear" icon in the upper left.
+- Select Project settings
+- In the general tab, you'll find your configuration JSON structure.  Make sure to scroll to the bottom
 - Copy the config object snippet, then add it to your app's HTML.
 
 The config should look like the following:
