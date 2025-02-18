@@ -1,7 +1,5 @@
 
-## todo
-- explain concepts of firestore
-- tour of common functions
+# Build a Simple White Board with FireStore
 
 ## Install vite
 
